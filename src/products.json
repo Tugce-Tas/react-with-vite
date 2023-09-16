@@ -1,0 +1,38 @@
+{
+  "data": [
+    {"id":1, 
+    "name":"ürün 1", 
+    "imgSrc": "https://picsum.photos/id/227/600/450/", 
+    "thumbnail": "https://picsum.photos/id/227/600/450/",
+    "isAvaliable" : true,
+    "isActive": false},
+
+    {"id":2, 
+    "name":"ürün 2", 
+    "imgSrc": "https://picsum.photos/id/234/600/450/", 
+    "thumbnail": "https://picsum.photos/id/234/600/450/",
+    "isAvaliable" : true,
+    "isActive": false},
+
+    {"id":3, 
+    "name":"ürün 3", 
+    "imgSrc": "https://picsum.photos/id/127/600/450/", 
+    "thumbnail": "https://picsum.photos/id/127/600/450/",
+    "isAvaliable" : true,
+    "isActive": false},
+
+    {"id":4, 
+    "name":"ürün 4", 
+    "imgSrc": "https://picsum.photos/id/224/600/450/", 
+    "thumbnail": "https://picsum.photos/id/224/600/450/",
+    "isAvaliable" : true,
+    "isActive": false},
+
+    {"id":5, 
+    "name":"ürün 5", 
+    "imgSrc": "https://picsum.photos/id/154/600/450/", 
+    "thumbnail": "https://picsum.photos/id/154/600/450/",
+    "isAvaliable" : true,
+    "isActive": false}
+  ]
+}
